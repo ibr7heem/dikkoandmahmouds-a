@@ -1,3 +1,4 @@
+
 p {
     margin: 0 0 0 0;
 }
@@ -140,6 +141,8 @@ p {
     font-family: "Playfair Display", sans-serif;
     font-weight: 400;
     margin-bottom: 0;
+    color: #FFFFFF;
+    
 }
 
 .knowledge-experience-description{
@@ -149,28 +152,34 @@ p {
     font-family: "ABeeZee", sans-serif;
     font-size: 16px;
     margin-top: 8px;
+    color: #FFFFFF;
+    font-weight: 400;
 }
 
 .description {
     font-family: "ABeeZee", sans-serif;
     font-size: 16px;
     width: 238px;
+    color: white;
 
 }
 
 .business-law-heading{
     font-family: "Playfair Display", sans-serif;
     font-size: 25px;
+    color: #CCA776;
 }
 
 .employment-law-heading{
     font-family: "Playfair Display", sans-serif;
     font-size: 25px;
+    color: #CCA776;
 }
 
 .civil-litigation-heading{
     font-family: "Playfair Display", sans-serif;
     font-size: 25px;
+    color: #CCA776;
 }
 
 .cube1 {
@@ -191,16 +200,34 @@ p {
 .business-litigation-heading{
     font-family: "Playfair Display", sans-serif;
     font-size: 25px;
+    color: #CCA776;
 }
 
 .insurance-defense-heading{
     font-family: "Playfair Display", sans-serif;
     font-size: 25px;
+    color: #CCA776;
 }
 
 .workers-compline-heading{
     font-family: "Playfair Display", sans-serif;
     font-size: 25px;
+    color: #CCA776;
+}
+
+.page-three{
+    background-color: #17172C;
+    position: relative;
+    height: 963px;
+    padding-top: 139px;
+}
+
+.overlay-png{
+    position: absolute;
+    opacity: 0.2;
+    margin-left: 170px;
+    width: 600px;
+    margin-top: -150px;
 }
 
 
