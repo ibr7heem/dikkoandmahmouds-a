@@ -150,7 +150,8 @@ p {
     font-family: "ABeeZee", sans-serif;
     font-size: 16px;
     margin-top: 8px;
-    color: white;
+    color: #FFFFFF;
+    font-weight: 400;
 }
 
 .description {
@@ -212,23 +213,17 @@ p {
     color: #CCA776;
 }
 
-.pg-three{
+.page-three{
     background-color: #17172C;
     position: relative;
-    height: 964px;
-    padding-top: 140px;
-
+    height: 963px;
+    padding-top: 139px;
 }
 
-.overlay{
+.overlay-png{
     position: absolute;
     opacity: 0.2;
+    margin-left: 170px;
     width: 600px;
-    margin-left: 150px;
-    margin-top: -170px;
+    margin-top: -150px;
 }
-
-
-
-
-
